@@ -81,4 +81,6 @@ Darknet shops offer a setting for private transactions. Use security.
 
 Please contribute and add stars to this repo.
 
-Update:  08/13/2025 link is live and functioning
+
+
+Update:  19 August url is up and running
